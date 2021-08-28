@@ -19,4 +19,4 @@ istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
-[#](MIT)
+[MIT](#)
