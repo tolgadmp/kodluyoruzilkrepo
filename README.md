@@ -5,16 +5,17 @@ Kodluyoruz-Front End kapsamında açtığım ilk repo
 
 ## Installation
 Öncelikle projeyi clonelayın
-'''git clone https://github.com/tolgadmp/kodluyoruzilkrepo.git'''
-
-## Usage
+```
+git clone https://github.com/tolgadmp/kodluyoruzilkrepo
+```
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''cd kodluyoruzilkrepo
- code
-'''
+```
+cd kodluyoruzilkrepo
+code
+```
 ## Contributing
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek
 istediğinizi tartışmak için bir konu açınız.
